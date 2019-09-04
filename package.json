@@ -1,0 +1,8 @@
+{
+  "name": "data-store-contract",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "truffle-privatekey-provider": "1.3.0"
+  }
+}
